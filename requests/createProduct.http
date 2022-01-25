@@ -1,0 +1,9 @@
+# CREATE PRODUCT
+POST https://p47x332om0.execute-api.sa-east-1.amazonaws.com/prod/product HTTP/1.1
+content-type: application/json
+
+{
+    "productId": "Glasses",
+    "price": 99.99,
+    "description": "used to clearly see things"
+}
