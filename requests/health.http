@@ -1,2 +1,0 @@
-# HEALTHCHECK
-GET https://p47x332om0.execute-api.sa-east-1.amazonaws.com/prod/health

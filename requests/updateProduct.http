@@ -1,8 +1,0 @@
-PATCH https://p47x332om0.execute-api.sa-east-1.amazonaws.com/prod/health HTTP/1.1
-content-type: application/json
-
-{
-    "productId": "Glasses",
-    "updatekey": "price",
-    "updateValue": 49.99
-}

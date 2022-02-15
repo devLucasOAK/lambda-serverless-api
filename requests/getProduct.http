@@ -1,2 +1,0 @@
-# GET PRODUCT
-GET https://p47x332om0.execute-api.sa-east-1.amazonaws.com/prod/product?productId=10
